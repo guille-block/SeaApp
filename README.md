@@ -12,9 +12,9 @@ To utilize the app, access the ships.csv and load it in the cloned repository wi
 
 Then simply run in your RStudio console:
 
-´´´{js}
+```{js}
 runApp()
-´´´
+```
 # Considerations
 
 The app has been deployed to shinyapp.io and you can acess it through <link>https://seaportanalyzer.shinyapps.io/SeaAppAnalyzer/</link>. Shinyapp has some limitations and 
